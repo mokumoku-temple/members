@@ -17,6 +17,11 @@ uretaro
 - JavaScript
   - jQuery
 
+# 趣味
+ゲーム
+まんが
+散歩
+
 # URL
 [ureta.net](http://ureta.net)
 
