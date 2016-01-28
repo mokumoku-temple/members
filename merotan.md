@@ -15,6 +15,27 @@ merotan(めろたん) or renyamizuno_(水野廉也)
   - jQuery(チョトデキル)
   - es6(チョトデキル)
   - coffee(チョトデキル)
+- ruby
+  - railsチョトデキル
+    - 難しい
+
+# 趣味
+- 睡眠
+- ゲーム
+  - L4D2とかやってます
+  - Falloutとか
+- ギター少し
+  - チョトデキル
+  - 上手くない
+
+# 好きな音楽
+- 割と何でも
+- DaftPunk
+- Skrillex
+- Grimes
+- sfpr
+
+その他もろもろ
 
 # 外部リンク
 twitter [@renyamizuno_](https://twitter.com/renyamizuno_)
