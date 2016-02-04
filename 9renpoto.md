@@ -5,7 +5,7 @@ Keisuke Kan [[9renpoto](https://github.com/9renpoto)]
 # 自己紹介
 
 - Frontend(1年ほど)
-- Server Side Engigger
+- Server Side Engineer
 
 # Skills
 
