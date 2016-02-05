@@ -15,6 +15,13 @@ muryoimpl(むりょいんぷる)
 - CSS/SCSS/SASS/PostCSS
 - Electron
 
+# 生活
+
+Amazon Prime Video を漁ったり、Netflix を漁ったり、2時間サスペンスを漁ったりして生きています。
+[ぼっちな服](https://gist.github.com/igaiga/a10048e1ed7aadef8bdf) を身に纏い、ぼっちでご飯食べてる。
+たまに、お家でニコラシカ作って飲んでます。
+
+
 # その他
 
 - https://twitter.com/muryoimpl
