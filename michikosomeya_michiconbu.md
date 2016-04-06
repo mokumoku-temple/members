@@ -12,3 +12,8 @@
 - (Sass)
 - (JavaScript)
 - (jQuery)
+- 
+# 趣味
+- 散歩
+- アニメ
+- プロレス
