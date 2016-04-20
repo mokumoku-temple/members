@@ -4,8 +4,9 @@ Sakura Sugo / @Sakunyo
 
 # 自己紹介
 
-株式会社モノサス で主に JavaScript を書いてます。  
-たまにPHPなども書きます。
+~株式会社モノサス で主に~ JavaScript や PHP を書いてます。  
+
+
 
 * HTML
   * React
