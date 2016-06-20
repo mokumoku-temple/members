@@ -22,6 +22,10 @@
   * Android(4年くらい前の知識)
   * iOS(Obj-Cもswiftも書いたことはある)
 
+# 趣味
+* 月1か2くらいでライブ観に行きます。
+* だらだらとゲームやりたいんだけど時間がない
+
 # アカウント
 - [GitHub](https://github.com/KeitaMoromizato)
 - [Qiita](http://qiita.com/KeitaMoromizato)
