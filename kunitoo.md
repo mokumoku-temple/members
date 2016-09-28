@@ -12,5 +12,10 @@ Rails を使って受託開発の仕事をしています
 - MySQL
 - Neo4j
 
+# 趣味
+
+- アニメ鑑賞
+
 # URL
 - Twitter [kunitoo](https://twitter.com/kunitoo)
+- Annict [kunitoo](https://annict.com/@kunitoo)
