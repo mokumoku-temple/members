@@ -16,6 +16,12 @@ Rails を使って受託開発の仕事をしています
 
 - アニメ鑑賞
 
+## 好きなアニメ
+### 2016 夏
+- Re:ゼロから始める異世界生活
+- クロムクロ
+- DAYS
+
 # URL
 - Twitter [kunitoo](https://twitter.com/kunitoo)
 - Annict [kunitoo](https://annict.com/@kunitoo)
