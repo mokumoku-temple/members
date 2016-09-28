@@ -11,10 +11,14 @@ merotan(めろたん) or renyamizuno_(水野廉也)
   - haml
 - css
   - チョトデキル
+  - PostCSS
+    - 好き。
 - js
   - jQuery(チョトデキル)
   - es6(チョトデキル)
   - coffee(チョトデキル)
+  - React(チョットデキル)
+  - Redux(チョットデキル)
 - ruby
   - railsチョトデキル
     - 難しい
