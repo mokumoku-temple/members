@@ -9,5 +9,10 @@ cafedomancer
 # できること
 
 * JavaScript
+  * Ember.js
 * Python
+  * gensim
+  * scikit-learn
 * Ruby
+  * Ruby on Rails
+  * Sinatra
