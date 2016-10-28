@@ -9,6 +9,10 @@ Socketという会社でエンジニア(兼 バックオフィス 兼 営業サ�
 - Java(ちょっと)
 - C(ちょっと)
 
+# 趣味
+- アニメ鑑賞(SHIROBAKOが超好きです)
+- なんでも図にすること
+
 # URL
 - Twitter [https://twitter.com/maetoo11](https://twitter.com/maetoo11)
 - Blog [http://maetoo11.hatenablog.com](http://maetoo11.hatenablog.com)
