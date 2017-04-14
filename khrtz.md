@@ -2,7 +2,7 @@
 khrtz(へるつ)
 
 # 自己紹介
-CyberAgentでWeb Developperやってます
+CyberAgentでWeb Developerやってます
 
 # スキル
 - JavaScript
