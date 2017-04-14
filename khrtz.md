@@ -2,7 +2,7 @@
 khrtz(へるつ)
 
 # 自己紹介
-CyberAgentでフロントエンドやってます。
+CyberAgentでWeb Developperやってます
 
 # スキル
 - JavaScript
@@ -12,6 +12,11 @@ CyberAgentでフロントエンドやってます。
 - Flux
 - SPA
 - Ruby on Rails
+
+# 趣味
+- ゲーム (TPSが多い)
+- 自作PC
+- [Twitch配信](https://www.twitch.tv/khrtz)
 
 # リンク
 [@khrtz](https://twitter.com/khrtz)
