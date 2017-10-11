@@ -33,7 +33,10 @@ class GHPagesGenerator
   end
 
   def convert_markdown(md_file, html_file)
-    html_file.write @markdown.render(md_file.read)
+    haml = Pathname.new(File.expand_path('../indiv.haml', __FILE__))
+    engine = Haml::Engine.new(haml.read)
+    context = Object.new
+    html_file.write engine.render(context, body: @markdown.render(md_file.read))
   end
 
   class Task
