@@ -8,8 +8,4 @@
   %body
     .container.pb-5
       %h1.py-4 もくもく寺メンバーズ
-      %ul.list-group
-        - mdlist.each do |md|
-          %li.list-group-item
-            %a.list-group-item-action{href: md.basename.sub(/\.md$/, '.html')}= md.basename.sub(/\.md$/, '')
-
+      = body
