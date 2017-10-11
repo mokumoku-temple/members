@@ -1,9 +1,15 @@
 !!!
 %html
+  %head
+    %meta{charset: 'utf-8'}
+    %meta{name: 'viewport', content: 'width=device-width,initial-scale=1,viewport-fit=cover'}
+    %title もくもく寺メンバーズ
+    %link{rel: 'stylesheet', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css', integrity: 'sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M', crossorigin: 'anonymous'}
   %body
-    %h1 もくもく寺メンバーズ
-    %ul
-      - mdlist.each do |md|
-        %li
-          %a{href: md.basename.sub(/\.md$/, '.html')}= md.basename.sub(/\.md$/, '')
+    .container.pb-5
+      %h1.py-4 もくもく寺メンバーズ
+      %ul.list-group
+        - mdlist.each do |md|
+          %li.list-group-item
+            %a.list-group-item-action{href: md.basename.sub(/\.md$/, '.html')}= md.basename.sub(/\.md$/, '')
 
