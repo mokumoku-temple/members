@@ -1,0 +1,9 @@
+!!!
+%html
+  %body
+    %h1 もくもく寺メンバーズ
+    %ul
+      - mdlist.each do |md|
+        %li
+          %a{href: md.basename.sub(/\.md$/, '.html')}= md.basename.sub(/\.md$/, '')
+

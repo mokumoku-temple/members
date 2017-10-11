@@ -3,24 +3,27 @@ takanorip
 大木尊紀(オオキタカノリ)
 
 # 自己紹介
-[株式会社フォーデジットデザイン](http://4dd.jp/)でフロントエンドエンジニアをしています。
-JSをメインで書いてます。
+[株式会社スマートドライブ](https://www.smartdrive.co.jp/)でフロントエンドエンジニアをしています。
+JS書いたりマークアップしたりしてます。
 
 # スキル
-
 * HTML/CSS
 	* HTML5/CSS3
+	* stylus
+	* sass
 * JS
-	* JSがメインです
+	* JavaScript
 	* jQuery
-	* React(最近使い始めました)
+	* React
 	* Babel/ES2015~
 	* Vue.js
+	* Node.js
+	* Gulp
 * PHP
-  * WordPress
+	* WordPress
 
 # 趣味
-* 卓球、ロードバイク、ゲーム、映画/アニメ鑑賞、散歩、料理
+* 卓球、ロードバイク、ゲーム、映画、散歩、料理
 
 # アカウント
 - [GitHub](https://github.com/takanorip)
