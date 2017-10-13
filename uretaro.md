@@ -2,26 +2,27 @@
 
 uretaro
 
-
 # 自己紹介
 
-饅頭のアイコンです。
-制作会社でマークアップエンジニアをしています。
+できることならなんでもするズラ。  
+掃除とか得意です！
 
-
-# チョットデキル
+# スキル
 
 - HTML
 - CSS
-  - SASS
 - JavaScript
-  - jQuery
+- PHP
+- MySQL
+- 掃除
 
 # 趣味
-ゲーム
-まんが
-散歩
+
+- ボードゲーム
+- ビデオゲーム
+- まんが
+- 散歩
 
 # URL
-[ureta.net](http://ureta.net)
 
+http://ureta.net
