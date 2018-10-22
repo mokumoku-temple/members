@@ -1,10 +1,11 @@
 # 名前
-takanorip
-大木尊紀(オオキタカノリ)
+takanorip  
+大木尊紀(オオキタカノリ)  
+https://takanorip.com
 
 # 自己紹介
-[株式会社スマートドライブ](https://www.smartdrive.co.jp/)でフロントエンドエンジニアをしています。
-JS書いたりマークアップしたりしてます。
+[株式会社FOLIO](https://corp.folio-sec.com/)でフロントエンドエンジニアをしています。  
+フォントが好きで、個人でウェブフォントの本を書いたりしてます。
 
 # スキル
 * HTML/CSS
@@ -12,20 +13,26 @@ JS書いたりマークアップしたりしてます。
 	* stylus
 	* sass
 * JS
-	* JavaScript
+	* JavaScript（ES2015~）
 	* jQuery
 	* React
-	* Babel/ES2015~
-	* Vue.js
-	* Node.js
-	* Gulp
+	* Nuxt.js / Vue.js
+	* Web Components / Polymer
+	* GraphQL / Apollo Client
 * PHP
 	* WordPress
+* その他
+	* ウェブフォント
 
-# 趣味
-* 卓球、ロードバイク、ゲーム、映画、散歩、料理
+# 趣味、好きなもの
+* 卓球
+* 自転車
+* ゲーム（FPSとか）
+* アニメ
+* 映画
+* 料理
 
 # アカウント
+- [twitter](https://twitter.com/takanoripe)
 - [GitHub](https://github.com/takanorip)
 - [Qiita](http://qiita.com/takanorip)
-- [twitter](https://twitter.com/takanoripe)
