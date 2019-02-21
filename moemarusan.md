@@ -9,7 +9,7 @@ Moena Saiki（@moemarusan）
 ## 練習中
  * HTML / CSS
  * Sass
- * Javascript
+ * JavaScript
  * design (Illustrator / Photoshop)
  * ベース
  * 丸い物体をいい感じに4つ集めて消す
