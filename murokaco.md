@@ -2,8 +2,8 @@
 murokaco(むろ)
 
 # 自己紹介
-フリーランスでUIデザイナーをやっています。
-好きなAdobeはSketchです。
+フリーランスでWebデザイナーをやっています。
+好きなアドビはイラレです。
 
 # スキル
 - HTML
@@ -13,8 +13,8 @@ murokaco(むろ)
  - Sass
  - LESS
 - JavaScript
- - ES6
- - React
+ - ES5(…囧)
+ - jQuery
 
 # URL
 - Twitter [https://twitter.com/murokaco](https://twitter.com/murokaco)
