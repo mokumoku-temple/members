@@ -2,18 +2,14 @@
 Moena Saiki（@moemarusan）
 
 # 自己紹介
-渋谷に生息するえいぎょー＆きかくまんです。  
-群馬と栃木のハーフです。北関東100%。  
-プロダクトをつくりたくてプログラミング勉強しはじめました。  
+[某子育てメディア](https://conobie.jp)でえいぎょーまんをやりつつ、ぷよぐらみんぐをかじりかけています。  
 
 ## 練習中
- * HTML / CSS
- * Sass
- * JavaScript
+ * HTML / CSS / Sass
+ * JavaScript / React
+ * C / C++
  * design (Illustrator / Photoshop)
- * ベース
- * 丸い物体をいい感じに4つ集めて消す
- * つけペン
+ * ベース / ドラム / EWI / DTM
 
 ## 好きなこと
  * うどん食べる
@@ -22,10 +18,11 @@ Moena Saiki（@moemarusan）
  * 音楽聴く
  * よく寝る
  * とてもよく寝る
+ * これでもかというくらいよく寝る
 
 ## その他
  * いつもねむい
- * 相棒はJohnny（Macbook Air 13-inch, Early 2015）
- * カメラはFUJIFILM
- * Twitter: [@moemarusan](https://twitter.com/moemarusan)（作ったまま放置）
+ * 相棒はJohnnyⅡ (MacBook Pro, 13-inch, 2020)
+ * Twitter: [@moemarusan](https://twitter.com/moemarusan)
  * Facebook: [moemarusan](https://www.facebook.com/moemarusan)
+ * あんまり更新しないブログ的なやつ: [kuromimi](https://kuromimi.moemarusan.com)
