@@ -20,5 +20,5 @@
 
 # 各種 URL
 
-- [Twitter](https://twitter.com/home?lang=ja)
+- [Twitter](https://twitter.com/mmrakt0716)
 - [Qiita](https://qiita.com/mmrakt)
