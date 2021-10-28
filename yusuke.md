@@ -1,6 +1,9 @@
 # 名前
 Yusuke Abe
 
+- スライド版
+https://github.slidict.io/yubele/members/profile/yusuke.md
+
 ## 分類
 エンジニア
 
@@ -20,3 +23,4 @@ Yusuke Abe
 - https://slidict.io
 - https://newsdict.jp
 - https://syukei-san.xyz
+
