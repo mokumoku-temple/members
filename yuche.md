@@ -2,8 +2,8 @@
  * yuche
 
 # 自己紹介
-フロントエンドとは名ばかりのコーダーです。
-基本サイト制作とワードプレス開発をしています。
+フロントエンドとは名ばかりのコーダーです。<br>
+基本サイト制作とワードプレス開発をしています。<br>
 もっと刺激のあるキラキラ系のフロントエンドエンジニアに俺はなる！
 
 # スキル
@@ -20,5 +20,5 @@
 
 
 # 各種URL
- * [Twitter][(](https://twitter.com/home?lang=ja))
+ * - Twitter [https://twitter.com/pomufgd](https://twitter.com/pomufgd)
 
